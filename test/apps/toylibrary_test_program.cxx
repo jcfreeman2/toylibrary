@@ -32,7 +32,7 @@ ERS_DECLARE_ISSUE(toylibrary,           ///< Namespace
 
 namespace {
 
-int number_to_print = 7;
+int number_to_print = 17;
 int times_to_print_number = 3;
 
 } // namespace ""
